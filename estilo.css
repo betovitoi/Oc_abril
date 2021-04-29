@@ -1,0 +1,15 @@
+/*seletor{
+    propriedade: valor;
+    propriedade: valor2;
+}*/
+h1{
+    color: rgb(255, 47, 47);
+    font-size: 45pt;
+}
+h2{
+    color: greenyellow;
+}
+#diferente{
+    color: black;
+    font-size: 25pt;
+}
